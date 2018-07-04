@@ -150,9 +150,7 @@ body{
 /* feature section */
 
 #features{
-    padding: 4rem;    
-    scroll-behavior: smooth;
-    overflow-y: scroll;
+    padding: 4rem
 }
 
 .features-container{
