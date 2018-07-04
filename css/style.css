@@ -505,7 +505,7 @@ body{
 /* media query */
 
 
-@media only screen and (max-width: 1300px){
+@media (max-width: 1300px){
 
     .container{
         max-width: 100%;
@@ -518,7 +518,7 @@ body{
 }
 
 
-@media only screen and (max-width: 1100px){
+@media (max-width: 1100px){
     .card-container{
         grid-gap: 4rem;
     }
@@ -537,7 +537,7 @@ body{
     }
 }
 
-@media only screen and (max-width: 990px){
+@media (max-width: 990px){
     .features-container{
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 4rem;
@@ -556,7 +556,7 @@ body{
 
 }
 
-@media only screen and (max-width:700px){
+@media (max-width:700px){
 
     .container{
         padding: 0 3px;
